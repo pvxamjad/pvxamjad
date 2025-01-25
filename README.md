@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amjad P V</h1>
 <h3 align="center">A hard-working, passionate Full Stack-Developer</h3>
 
-- 🔭 I’m currently working on **Ayur rich**
+- 🔭 I’m currently working on **Digicue Software Solution**
 
 - 🌱 I’m currently learning **React**
 
