@@ -94,29 +94,29 @@ Git, GitHub, VS Code, npm, cPanel
 <table>
   <tr>
     <td align="center">
-      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"></a>
+      <a href="https://arambam.in/"><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="400" height="200"></a>
       <br>
       <b>Aarambam</b>
     </td>
     <td align="center">
-      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegeamdo-01.jpg" width="200" height="200"></a>
+      <a href="https://aamoda.org/"><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegeamdo-01.jpg" width="400" height="200"></a>
       <br>
       <b>Aamoda</b>
     </td>
     <td align="center">
-      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/merrylandayurveda.com_.png" width="200" height="200"></a>
+      <a href="https://merrylandayurveda.com/"><img src="https://amdxwork.pythonanywhere.com/media/portfolio/merrylandayurveda.com_.png" width="400" height="200"></a>
       <br>
       <b>Merryland Ayurveda</b>
     </td>
   </tr>
   <tr>
       <td align="center">
-      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegeayr-01.jpg" width="200" height="200"></a>
+      <a href="https://www.ayurrich.in/"><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegeayr-01.jpg" width="400" height="200"></a>
       <br>
       <b>Ayurrich</b>
     </td>
     <td align="center">
-      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/leafbaxar.jpg" width="200" height="200"></a>
+      <a href="https://leafbazar.org/"><img src="https://amdxwork.pythonanywhere.com/media/portfolio/leafbaxar.jpg" width="400" height="200"></a>
       <br>
       <b>Leafbazar</b>
     </td>
