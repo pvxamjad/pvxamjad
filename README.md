@@ -110,3 +110,13 @@ Git, GitHub, VS Code, npm, cPanel
     </td>
   </tr>
 </table>
+
+## 📊 GitHub Stats & Badges
+
+![GitHub followers](https://img.shields.io/github/followers/amjadxpv?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/amjadxpv?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=amjadxpv&color=blue)
+
+![Top Languages](https://img.shields.io/github/languages/top/amjadxpv/amjadxpv)
+![Repo Size](https://img.shields.io/github/repo-size/amjadxpv/amjadxpv)
+
