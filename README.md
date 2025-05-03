@@ -111,7 +111,6 @@ Git, GitHub, VS Code, npm, cPanel
   </tr>
 </table>
 
-## 📊 GitHub Stats & Badges
 
 ## 🏷️ Tech Stack & Tools
 
