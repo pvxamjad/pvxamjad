@@ -91,26 +91,22 @@ Git, GitHub, VS Code, npm, cPanel
 
 ## 💻 Projects
 
-### 🔹 CollegeArm – Student Portal
-
-A Django-based college website for student activities and notices.
-
-<img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" alt="CollegeArm Project" width="400" height="400">
-
----
-
-### 🔹 E-Shop – eCommerce Website
-
-An online shopping website built with Django and Bootstrap.  
-Features include cart, checkout, user login, and admin panel.
-
-<img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" alt="E-Shop Project" width="400" height="400">
-
----
-
-### 🔹 Portfolio Website
-
-A personal portfolio website showcasing projects and skills.  
-Built using HTML, CSS, JavaScript, and deployed via PythonAnywhere.
-
-<img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" alt="Portfolio Project" width="400" height="400">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"><br>
+      <b>CollegeArm – Student Portal</b><br>
+      <sub>A Django-based college website for student activities and notices.</sub>
+    </td>
+    <td align="center">
+      <img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"><br>
+      <b>E-Shop – eCommerce Website</b><br>
+      <sub>Built with Django & Bootstrap. Includes cart, login, and admin panel.</sub>
+    </td>
+    <td align="center">
+      <img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"><br>
+      <b>Portfolio Website</b><br>
+      <sub>HTML, CSS, and JS portfolio hosted on PythonAnywhere.</sub>
+    </td>
+  </tr>
+</table>
