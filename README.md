@@ -108,6 +108,8 @@ Git, GitHub, VS Code, npm, cPanel
       <br>
       <b>Merryland Ayurveda</b>
     </td>
+  </tr>
+  <tr>
       <td align="center">
       <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegeayr-01.jpg" width="200" height="200"></a>
       <br>
