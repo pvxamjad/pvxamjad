@@ -94,19 +94,29 @@ Git, GitHub, VS Code, npm, cPanel
 <table>
   <tr>
     <td align="center">
-      <img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"><br>
-      <b>CollegeArm – Student Portal</b><br>
-      <sub>A Django-based college website for student activities and notices.</sub>
+      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"></a>
+      <br>
+      <b>Aarambam</b>
     </td>
     <td align="center">
-      <img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"><br>
-      <b>E-Shop – eCommerce Website</b><br>
-      <sub>Built with Django & Bootstrap. Includes cart, login, and admin panel.</sub>
+      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegeamdo-01.jpg" width="200" height="200"></a>
+      <br>
+      <b>Aamoda</b>
     </td>
     <td align="center">
-      <img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegearm-01.jpg" width="200" height="200"><br>
-      <b>Portfolio Website</b><br>
-      <sub>HTML, CSS, and JS portfolio hosted on PythonAnywhere.</sub>
+      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/merrylandayurveda.com_.png" width="200" height="200"></a>
+      <br>
+      <b>Merryland Ayurveda</b>
+    </td>
+      <td align="center">
+      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/web1collegeayr-01.jpg" width="200" height="200"></a>
+      <br>
+      <b>Ayurrich</b>
+    </td>
+    <td align="center">
+      <a href=""><img src="https://amdxwork.pythonanywhere.com/media/portfolio/leafbaxar.jpg" width="200" height="200"></a>
+      <br>
+      <b>Leafbazar</b>
     </td>
   </tr>
 </table>
